@@ -1,16 +1,57 @@
-### Hi there 👋
+#### <div align="center">I'm Chacha, Junior in Dongguk University , CSE  💻    </div>  
+  
 
-<!--
-**Chacha-on-the-GitHub/Chacha-on-the-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">Welcome to my GitHub Profile :)
+</div>  
+  
 
-Here are some ideas to get you started:
+<br/>  
 
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
-### 👯 I’m looking to collaborate on ...
-### 🤔 I’m looking for help with ...
-### 💬 Ask me about ...
-### 📫 How to reach me: ...
-### 😄 Pronouns: ...
-### ⚡ Fun fact: ...
--->
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/agent__cha" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/chacha-on-the-github" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/erat_cha_cha" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/kaggle" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chacha-on-the-github&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+
+## Visitor Counter  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=chacha-on-the-github&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
