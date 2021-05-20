@@ -41,11 +41,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jpiug6m6c5l46dgaxnr3hb33k4&cover_image=true&theme=default" /></div>  
+  
 
 <br/>  
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jpiug6m6c5l46dgaxnr3hb33k4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## Visitor Counter  
 <div align="center">
