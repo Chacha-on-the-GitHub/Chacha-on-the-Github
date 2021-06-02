@@ -7,10 +7,7 @@
 
 <br/>  
 
-<table align = "center">
-  <tr>
-    <td>
-      <h1> Connect with me </h1>  
+## Connect with me
 <div align="center">
 <a href="https://instagram.com/agent__cha" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -22,17 +19,13 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  </td>
-    
-  <td>
+
+## GitHub Status
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=chacha-on-the-github&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </div>  
-  </td>
- </tr>
-</table>
-<br/>  
 
+<br/>  
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
