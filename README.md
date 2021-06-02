@@ -10,7 +10,7 @@
 <table align = "center">
   <tr>
     <td>
-## Connect with me  
+      <h1> Connect with me </h1>  
 <div align="center">
 <a href="https://instagram.com/agent__cha" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -25,7 +25,6 @@
   </td>
     
   <td>
-## Github Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=chacha-on-the-github&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </div>  
