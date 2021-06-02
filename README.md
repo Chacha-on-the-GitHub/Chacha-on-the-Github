@@ -9,11 +9,11 @@
 
 
 ## Connect with me  
-<div float="left">
+<div align="center">
 <a href="https://instagram.com/agent__cha" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCF1kZBLD2Fbrr0YrcfvEUDQ" target="_blank">
+<a href="https://wwww.youtube.com/channel/UCF1kZBLD2Fbrr0YrcfvEUDQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/kaggle" target="_blank">
@@ -25,7 +25,7 @@
 
 
 ## Github Stats  
-<div float="left">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=chacha-on-the-github&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </div>  
 
