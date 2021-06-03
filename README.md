@@ -6,8 +6,7 @@
   
 
 <br/>  
-
-## Connect with me
+<div display = "flex" flex-direction = "row">
 <div display = "flex">
 <div align = "center">
 <a href="https://instagram.com/agent__cha" target="_blank">
