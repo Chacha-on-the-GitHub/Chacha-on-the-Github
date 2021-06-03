@@ -1,12 +1,10 @@
 #### <div align="center">I'm Chacha, Junior in Dongguk University , CSE  💻    </div>  
   
-
-<div align="center">Welcome to my GitHub Profile :)
-</div>  
+<div align="center">Welcome to my GitHub Profile :)</div>  
   
+<br/>
 
-<br/>  
-<div display = "flex" flex-direction = "row">
+
 ### Connect with me
 <div align = "center">
 <a href="https://instagram.com/agent__cha" target="_blank">
@@ -24,7 +22,7 @@
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=chacha-on-the-github&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </div>  
-</div>
+
 <br/>  
 
 ## Recent Blog Posts  
