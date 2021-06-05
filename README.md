@@ -16,9 +16,6 @@
 <a href="https://www.kaggle.com/kaggle" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-  <a href="https://chacha-on-the-github.github.io" target="_blank">
-<img src=https://img.shields.io/badge/-Blog-brightgreen&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 ### GitHub Status
