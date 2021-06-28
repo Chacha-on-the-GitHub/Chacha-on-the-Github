@@ -1,6 +1,6 @@
 #### <div align="center">I'm Chacha, Junior in Dongguk University , CSE  💻    </div>  
   
-<div align="center">Welcome to my GitHub Profile :)</div>  
+<div align="center">Welcome to my GitHub :)</div>  
   
 <br/>
 
