@@ -33,8 +33,8 @@
 <br/>  
 
 <!--<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jpiug6m6c5l46dgaxnr3hb33k4&cover_image=true&theme=default" /></div>  
-  
 <br/>  
+-->
 
 ## Visitor Counter  
 <div align="center">
