@@ -1,4 +1,4 @@
-#### <div align="center">I'm Chacha, Junior in Dongguk University , CSE  💻    </div>  
+#### <div align="center">I'm Chacha, Senior in Dongguk University , CSE  💻    </div>  
   
 <div align="center">Welcome to my GitHub :)</div>  
   
