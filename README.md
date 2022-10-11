@@ -12,8 +12,8 @@
 <a href="https://wwww.youtube.com/channel/UCF1kZBLD2Fbrr0YrcfvEUDQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/kaggle" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<a href="https://www.eratchacha.github.io" target="_blank">
+<img src=https://img.shields.io/badge/blog-eratchacha.github.io-green />
 </a>
 </div>  
 
