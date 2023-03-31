@@ -12,7 +12,7 @@
 <a href="https://wwww.youtube.com/channel/UCF1kZBLD2Fbrr0YrcfvEUDQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://eratchacha.github.io" target="_blank">
+<a href="https://velog.io/@eratchacha" target="_blank">
 <img src=https://img.shields.io/badge/blog-%0A0A0A.svg?&style=for-the-badge&logo=devpost&logoColor=white alt=devpost style="margin-bottom: 5px;" />
 </a>
 </div>  
